@@ -1,4 +1,4 @@
-# Send Data to Other Flutter App 
+# Share Data to Other Flutter App 
 
 This project is for learning how to send data from Flutter App.
 
